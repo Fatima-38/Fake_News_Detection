@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Generated outputs (optional -- remove these lines if you WANT to commit
+# the sample charts/images so they show up directly on GitHub)
+# 04-breast-cancer-prediction/data/
